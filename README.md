@@ -1,5 +1,5 @@
 # geobot
-!!
+!
 A TypeScript-powered geographic bot application with an interactive HTML interface.
 
 ## 🌍 About
